@@ -1,0 +1,44 @@
+.outerClass {
+    text-align: center;
+    background-color: transparent;
+    margin-top: 130px;
+   
+}
+
+.field-icon {
+    float: right;
+    margin-left: -20px;
+    margin-top: -30px;
+    position: relative;
+    z-index: 2;
+
+}
+
+
+.innerClass {
+
+    display: inline-block;
+    width: auto;  
+    height: auto;  
+    background-color: rgba(0,0,0, 0.4);
+    
+}
+
+.inp {
+    margin: 5%;
+}
+
+.btn {
+    white-space: normal !important;
+    
+}
+
+body {
+    font-family: sans-serif;
+    background-image: url(/images/index2v1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+}
